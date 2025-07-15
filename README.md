@@ -71,9 +71,6 @@ Built by [LevonHak](https://github.com/LevonHak) — automation enthusiast & web
 
 ## ⚖️ LICENSE
 
-Create a file called `LICENSE` and paste this in:
-
-
 MIT License
 
 Copyright (c) 2025 LevonHak
