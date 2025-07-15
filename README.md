@@ -81,7 +81,7 @@ In the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software...
 
-[Full license text continues — GitHub autofills this if you select MIT during repo creation]
+
 
 
 
