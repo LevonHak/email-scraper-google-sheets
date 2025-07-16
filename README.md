@@ -5,7 +5,7 @@ A robust Python scraper that extracts contact emails, LinkedIn &amp; Facebook UR
 
 # Email Scraper with Google Sheets Integration
 
-A powerful Python web scraper that extracts contact emails, Facebook and LinkedIn profile links, and source URLs from websites — then syncs everything into Google Sheets using a service account.
+A powerful Python web scraper that extracts contact emails, Facebook and LinkedIn profile links, and source URLs from websites - then syncs everything into Google Sheets using a service account.
 
 ##  Features
 
@@ -64,7 +64,7 @@ Make sure these packages are installed (the script handles it automatically):
 
 ## 🧑‍💻 Author
 
-Built by [LevonHak](https://github.com/LevonHak) — automation enthusiast & web scraping architect.
+Built by [LevonHak](https://github.com/LevonHak) - automation enthusiast & web scraping architect.
 
 
 ---
